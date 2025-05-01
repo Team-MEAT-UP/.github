@@ -3,6 +3,7 @@
 
 
 ## 🗒️ API 명세서
+https://valley-tenor-1ca.notion.site/API-1c7f3199866980d388f4f9da3aa78fb0?pvs=74
 
 ## 🏛️ System Architecture
 ![image](https://github.com/user-attachments/assets/1323f149-bf60-4b34-a1f1-5ecd65b312bc)
