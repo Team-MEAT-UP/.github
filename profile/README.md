@@ -4,7 +4,7 @@
 
 ## 🏛️ System Architecture
 
-## 파트별 질문
+## 🧐 파트별 질문
 ### 🛠️ BackEnd
 
 ### 🌐 FrontEnd
