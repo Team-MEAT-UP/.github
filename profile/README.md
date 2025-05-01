@@ -1,12 +1,14 @@
-## Hi there 👋
+## 📊 ERD
 
-<!--
+## 🗒️ API 명세서
 
-**Here are some ideas to get you started:**
+## 🏛️ System Architecture
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 파트별 질문
+### 🛠️ BackEnd
+
+### 🌐 FrontEnd
+1. FSD 아키텍처 기반으로 프로젝트 구조를 설계했는데, feature/domain 분리가 실질적으로 잘 적용됐는지 확신이 안 서요. 현재 구조를 한 번 봐주시고, 개선할 부분이 있을지 피드백 주실 수 있을까요?
+2. 현재 사용자 여러 명의 위치와 중간지점을 지도에 마커로 표시하고, 각 사용자의 이동 경로를 폴리라인으로 보여주고 있는데, 지도 위에 표시할 요소가 많아질수록 성능 저하가 발생할 수 있을 것 같아서 고민이 됩니다. 특히 마커나 경로가 많아졌을 때 성능 저하를 줄이기 위해 실무에서는 어떤 방식으로 최적화를 하는지 궁금합니다.
+그리고 더 넓은 관점에서 지도 기반 서비스에서 전반적인 성능 최적화를 어떻게 접근하는지도 여쭤보고 싶습니다. 사용자 위치나 경로 등의 상태 변화가 많을 때 어떤 기준으로 상태관리 구조를 나누고, 컴포넌트 리렌더링을 최소화하려면 어떻게 분리하는 게 좋은지, 또 API 호출 타이밍이나 빈도 조절은 어떻게 하는 게 실무적으로 효과적인지 궁금합니다.
+3. 현재 프로젝트에 테스트 코드를 적용하려고 하는데, 현업에서는 보통 어떤 테스트 도구와 라이브러리를 많이 사용하는지 궁금합니다. 그리고 테스트를 어디에 적용하는 게 일반적인지에 대해서도 조언을 구하고 싶습니다. 일반적으로는 컴포넌트 단위, 유틸리티 함수, API 호출 등 각각 어떤 범위에서 테스트를 적용하는지 궁금합니다.
