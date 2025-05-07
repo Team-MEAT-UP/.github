@@ -1,13 +1,11 @@
 ## 📊 ERD
-![image](https://github.com/user-attachments/assets/02057b76-5cd5-419a-8b42-d9e316c30c11)
-
+![스크린샷 2025-05-07 오후 5 27 33](https://github.com/user-attachments/assets/a16a28e0-3e1d-437e-a0c8-adf81a998c5a)
 
 ## 🗒️ API 명세서
 https://valley-tenor-1ca.notion.site/API-1c7f3199866980d388f4f9da3aa78fb0?pvs=74
 
 ## 🏛️ System Architecture
 ![image](https://github.com/user-attachments/assets/1323f149-bf60-4b34-a1f1-5ecd65b312bc)
-
 
 ## 🧐 파트별 질문
 ### 🛠️ BackEnd
