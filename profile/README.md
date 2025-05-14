@@ -1,5 +1,6 @@
 ## 📊 ERD
-![스크린샷 2025-05-07 오후 5 27 33](https://github.com/user-attachments/assets/a16a28e0-3e1d-437e-a0c8-adf81a998c5a)
+![SPOT (2)](https://github.com/user-attachments/assets/8848e376-99df-4e66-9368-0905e3d98588)
+
 
 ## 🗒️ API 명세서
 https://valley-tenor-1ca.notion.site/API-1c7f3199866980d388f4f9da3aa78fb0?pvs=74
